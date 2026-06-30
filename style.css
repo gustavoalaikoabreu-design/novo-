@@ -95,7 +95,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #f0f2f5;
 }
 
 #tx12, #tx13, #tx15, #tx17, #tx19, #tx20 {
